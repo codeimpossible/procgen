@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <style>
+            .image {
+                z-index: 997;
+            }
+            .elevation {  z-index: 999; }
+            .moisture { z-index: 998; }
+            .hidden { display: none; }
+        </style>
+    </head>
+    <body>
+        <img src="./m01-generatedimage.png" class="image" style="position: absolute; top: 0; left: 0;" />
+        <img src="./m02-generatedimage.png" class="image" style="position: absolute; top: 0; left: 320px;" />
+        <img src="./m03-generatedimage.png" class="image" style="position: absolute; top: 0; left: 640px;" />
+        <img src="./m04-generatedimage.png" class="image" style="position: absolute; top: 240px; left: 0;" />
+        <img src="./m05-generatedimage.png" class="image" style="position: absolute; top: 240px; left: 320px;" />
+        <img src="./m06-generatedimage.png" class="image" style="position: absolute; top: 240px; left: 640px;" />
+        <img src="./m07-generatedimage.png" class="image" style="position: absolute; top: 480px; left: 0;" />
+        <img src="./m08-generatedimage.png" class="image" style="position: absolute; top: 480px; left: 320px;" />
+        <img src="./m09-generatedimage.png" class="image" style="position: absolute; top: 480px; left: 640px;" />
+
+        <img src="./m01-elevation.png" class="elevation hidden" style="position: absolute; top: 0; left: 0;" />
+        <img src="./m02-elevation.png" class="elevation hidden" style="position: absolute; top: 0; left: 320px;" />
+        <img src="./m03-elevation.png" class="elevation hidden" style="position: absolute; top: 0; left: 640px;" />
+        <img src="./m04-elevation.png" class="elevation hidden" style="position: absolute; top: 240px; left: 0;" />
+        <img src="./m05-elevation.png" class="elevation hidden" style="position: absolute; top: 240px; left: 320px;" />
+        <img src="./m06-elevation.png" class="elevation hidden" style="position: absolute; top: 240px; left: 640px;" />
+        <img src="./m07-elevation.png" class="elevation hidden" style="position: absolute; top: 480px; left: 0;" />
+        <img src="./m08-elevation.png" class="elevation hidden" style="position: absolute; top: 480px; left: 320px;" />
+        <img src="./m09-elevation.png" class="elevation hidden" style="position: absolute; top: 480px; left: 640px;" />
+
+        <img src="./m01-moisture.png" class="moisture hidden" style="position: absolute; top: 0; left: 0;" />
+        <img src="./m02-moisture.png" class="moisture hidden" style="position: absolute; top: 0; left: 320px;" />
+        <img src="./m03-moisture.png" class="moisture hidden" style="position: absolute; top: 0; left: 640px;" />
+        <img src="./m04-moisture.png" class="moisture hidden" style="position: absolute; top: 240px; left: 0;" />
+        <img src="./m05-moisture.png" class="moisture hidden" style="position: absolute; top: 240px; left: 320px;" />
+        <img src="./m06-moisture.png" class="moisture hidden" style="position: absolute; top: 240px; left: 640px;" />
+        <img src="./m07-moisture.png" class="moisture hidden" style="position: absolute; top: 480px; left: 0;" />
+        <img src="./m08-moisture.png" class="moisture hidden" style="position: absolute; top: 480px; left: 320px;" />
+        <img src="./m09-moisture.png" class="moisture hidden" style="position: absolute; top: 480px; left: 640px;" />
+
+        <script>
+            document.querySelector('body').addEventListener('keydown', function(event) {
+                if (event.key === 'q') {
+                    document.querySelectorAll('.elevation').forEach((el) => {
+                        el.classList.toggle('hidden');
+                    });
+                }
+                if (event.key === 'e') {
+                    document.querySelectorAll('.moisture').forEach((el) => {
+                        el.classList.toggle('hidden');
+                    });
+                }
+            }, false);
+        </script>
+    </body>
+</html>
