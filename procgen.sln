@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terrain2D", "Terrain2D.csproj", "{3A3A549D-CE70-4D5B-A5BE-C7D60AA9E17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terrain2D", "terrain2D\Terrain2D.csproj", "{3A3A549D-CE70-4D5B-A5BE-C7D60AA9E17F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "celestial", "celestial", "{B8E229D4-C040-4498-AC49-D9CF937BEAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solarsystem", "celestial\solarsystem\solarsystem.csproj", "{7891F6BF-AD2D-4A7F-977C-97086B0BB030}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +19,18 @@ Global
 		{3A3A549D-CE70-4D5B-A5BE-C7D60AA9E17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A3A549D-CE70-4D5B-A5BE-C7D60AA9E17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A3A549D-CE70-4D5B-A5BE-C7D60AA9E17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7891F6BF-AD2D-4A7F-977C-97086B0BB030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7891F6BF-AD2D-4A7F-977C-97086B0BB030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7891F6BF-AD2D-4A7F-977C-97086B0BB030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7891F6BF-AD2D-4A7F-977C-97086B0BB030}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0336C0B8-C6C1-42DC-BDE8-E1619AF621C2}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7891F6BF-AD2D-4A7F-977C-97086B0BB030} = {B8E229D4-C040-4498-AC49-D9CF937BEAB1}
 	EndGlobalSection
 EndGlobal
