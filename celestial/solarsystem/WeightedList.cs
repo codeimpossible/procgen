@@ -2,6 +2,8 @@ using System.Text;
 using System.Collections;
 using static WeightErrorHandlingType;
 
+// taken from: https://github.com/cdanek/KaimiraWeightedList
+
 /*
 MIT License
 
