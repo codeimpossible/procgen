@@ -1,0 +1,5081 @@
+{
+  "Galaxies": [
+    {
+      "Id": 0,
+      "Systems": [
+        {
+          "Id": 0,
+          "GalaxyId": 0,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2464.85,
+              "Farenheit": 4468.73,
+              "Kelvin": 2738.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 33.589325,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 8.14549,
+              "RadiusOfJupiter": 0.74729264,
+              "SolarRadius": 0.074729264
+            },
+            "GravityForce": 129090.055,
+            "Mass": {
+              "SolarMass": 0.38765782,
+              "MassOfJupiter": 405.87775,
+              "MassOfEarh": 129090.055
+            },
+            "SystemId": 0
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.5431738,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 29.564775,
+                "RadiusOfJupiter": 2.7123647,
+                "SolarRadius": 0.27123648
+              },
+              "GravityForce": 29.564777,
+              "Mass": {
+                "SolarMass": 8.878312E-05,
+                "MassOfJupiter": 0.092955925,
+                "MassOfEarh": 29.564777
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.870862,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 10.549624,
+                "RadiusOfJupiter": 0.96785545,
+                "SolarRadius": 0.096785545
+              },
+              "GravityForce": 10.549624,
+              "Mass": {
+                "SolarMass": 3.1680553E-05,
+                "MassOfJupiter": 0.033169538,
+                "MassOfEarh": 10.549624
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.5817963,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 24.088593,
+                "RadiusOfJupiter": 2.2099626,
+                "SolarRadius": 0.22099626
+              },
+              "GravityForce": 24.088593,
+              "Mass": {
+                "SolarMass": 7.2338116E-05,
+                "MassOfJupiter": 0.075738005,
+                "MassOfEarh": 24.088593
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.15355605,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 5.2887306,
+                "RadiusOfJupiter": 0.48520464,
+                "SolarRadius": 0.048520464
+              },
+              "GravityForce": 5.2887306,
+              "Mass": {
+                "SolarMass": 1.5882075E-05,
+                "MassOfJupiter": 0.016628532,
+                "MassOfEarh": 5.2887306
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.253663,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 24.623201,
+                "RadiusOfJupiter": 2.2590094,
+                "SolarRadius": 0.22590093
+              },
+              "GravityForce": 24.623201,
+              "Mass": {
+                "SolarMass": 7.394355E-05,
+                "MassOfJupiter": 0.07741889,
+                "MassOfEarh": 24.623201
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.8655883,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 30.231886,
+                "RadiusOfJupiter": 2.7735674,
+                "SolarRadius": 0.27735674
+              },
+              "GravityForce": 30.231884,
+              "Mass": {
+                "SolarMass": 9.078644E-05,
+                "MassOfJupiter": 0.0950534,
+                "MassOfEarh": 30.231884
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.2784545,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 3.6490338,
+                "RadiusOfJupiter": 0.33477372,
+                "SolarRadius": 0.033477373
+              },
+              "GravityForce": 3.6490338,
+              "Mass": {
+                "SolarMass": 1.095806E-05,
+                "MassOfJupiter": 0.0114730885,
+                "MassOfEarh": 3.6490338
+              },
+              "SystemId": 0
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.7200213,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 31.665888,
+                "RadiusOfJupiter": 2.9051275,
+                "SolarRadius": 0.29051274
+              },
+              "GravityForce": 31.66589,
+              "Mass": {
+                "SolarMass": 9.5092764E-05,
+                "MassOfJupiter": 0.09956212,
+                "MassOfEarh": 31.66589
+              },
+              "SystemId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Systems": [
+        {
+          "Id": 1,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3392.85,
+              "Farenheit": 6139.13,
+              "Kelvin": 3666.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 43.979168,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 46.195763,
+              "RadiusOfJupiter": 4.2381434,
+              "SolarRadius": 0.42381433
+            },
+            "GravityForce": 131492.12,
+            "Mass": {
+              "SolarMass": 0.39487126,
+              "MassOfJupiter": 413.4302,
+              "MassOfEarh": 131492.12
+            },
+            "SystemId": 1
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.7281719,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 18.308865,
+                "RadiusOfJupiter": 1.6797124,
+                "SolarRadius": 0.16797124
+              },
+              "GravityForce": 18.308865,
+              "Mass": {
+                "SolarMass": 5.4981574E-05,
+                "MassOfJupiter": 0.057565708,
+                "MassOfEarh": 18.308865
+              },
+              "SystemId": 1
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2929.85,
+              "Farenheit": 5305.73,
+              "Kelvin": 3203.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 77.419044,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 24.777514,
+              "RadiusOfJupiter": 2.2731664,
+              "SolarRadius": 0.22731663
+            },
+            "GravityForce": 66679.01,
+            "Mass": {
+              "SolarMass": 0.20023726,
+              "MassOfJupiter": 209.6484,
+              "MassOfEarh": 66679.01
+            },
+            "SystemId": 2
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.81963813,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 30.493786,
+                "RadiusOfJupiter": 2.797595,
+                "SolarRadius": 0.2797595
+              },
+              "GravityForce": 30.493786,
+              "Mass": {
+                "SolarMass": 9.157293E-05,
+                "MassOfJupiter": 0.09587686,
+                "MassOfEarh": 30.493786
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.6259012,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 26.945234,
+                "RadiusOfJupiter": 2.47204,
+                "SolarRadius": 0.24720399
+              },
+              "GravityForce": 26.945234,
+              "Mass": {
+                "SolarMass": 8.091662E-05,
+                "MassOfJupiter": 0.0847197,
+                "MassOfEarh": 26.945234
+              },
+              "SystemId": 2
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2322.85,
+              "Farenheit": 4213.13,
+              "Kelvin": 2596.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 61.30593,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 48.584198,
+              "RadiusOfJupiter": 4.457266,
+              "SolarRadius": 0.4457266
+            },
+            "GravityForce": 51566.63,
+            "Mass": {
+              "SolarMass": 0.15485474,
+              "MassOfJupiter": 162.13292,
+              "MassOfEarh": 51566.63
+            },
+            "SystemId": 3
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.85696113,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 26.894274,
+                "RadiusOfJupiter": 2.4673645,
+                "SolarRadius": 0.24673645
+              },
+              "GravityForce": 26.894274,
+              "Mass": {
+                "SolarMass": 8.076359E-05,
+                "MassOfJupiter": 0.08455948,
+                "MassOfEarh": 26.894274
+              },
+              "SystemId": 3
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0012008641,
+                "KilometersPerSecond": 360.00998,
+                "MilesPerHour": 0.06213882
+              },
+              "DistanceToSun": {
+                "LightSeconds": 18887.148,
+                "LightYears": 0.0005989075,
+                "AU": 37.85
+              },
+              "Albedo": 0.42261097,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 20.324795,
+                "RadiusOfJupiter": 1.86466,
+                "SolarRadius": 0.18646601
+              },
+              "GravityForce": 20.324795,
+              "Mass": {
+                "SolarMass": 6.103542E-05,
+                "MassOfJupiter": 0.063904084,
+                "MassOfEarh": 20.324795
+              },
+              "SystemId": 3
+            }
+          ]
+        },
+        {
+          "Id": 4,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 4504.85,
+              "Farenheit": 8140.7295,
+              "Kelvin": 4778.0
+            },
+            "Chromacity": {
+              "R": 209,
+              "G": 116,
+              "B": 65,
+              "A": 255,
+              "Hex": "#D17441FF"
+            },
+            "Luminosity": 270.0,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 12.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 84.18909,
+              "RadiusOfJupiter": 7.7237697,
+              "SolarRadius": 0.77237695
+            },
+            "GravityForce": 190389.86,
+            "Mass": {
+              "SolarMass": 0.57174134,
+              "MassOfJupiter": 598.61316,
+              "MassOfEarh": 190389.86
+            },
+            "SystemId": 4
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.16975728,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 6.813546,
+                "RadiusOfJupiter": 0.62509596,
+                "SolarRadius": 0.0625096
+              },
+              "GravityForce": 6.8135457,
+              "Mass": {
+                "SolarMass": 2.0461099E-05,
+                "MassOfJupiter": 0.02142277,
+                "MassOfEarh": 6.8135457
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.7585683,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 10.500611,
+                "RadiusOfJupiter": 0.9633588,
+                "SolarRadius": 0.09633588
+              },
+              "GravityForce": 10.500611,
+              "Mass": {
+                "SolarMass": 3.1533367E-05,
+                "MassOfJupiter": 0.033015437,
+                "MassOfEarh": 10.500611
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.79978544,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 29.321716,
+                "RadiusOfJupiter": 2.6900659,
+                "SolarRadius": 0.26900658
+              },
+              "GravityForce": 29.321718,
+              "Mass": {
+                "SolarMass": 8.805321E-05,
+                "MassOfJupiter": 0.09219171,
+                "MassOfEarh": 29.321718
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.5911941,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 10.032498,
+                "RadiusOfJupiter": 0.92041266,
+                "SolarRadius": 0.09204127
+              },
+              "GravityForce": 10.032498,
+              "Mass": {
+                "SolarMass": 3.0127623E-05,
+                "MassOfJupiter": 0.03154362,
+                "MassOfEarh": 10.032498
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.5470333,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 3.693263,
+                "RadiusOfJupiter": 0.33883148,
+                "SolarRadius": 0.033883147
+              },
+              "GravityForce": 3.6932628,
+              "Mass": {
+                "SolarMass": 1.10908795E-05,
+                "MassOfJupiter": 0.011612151,
+                "MassOfEarh": 3.6932628
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.686281,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 23.62411,
+                "RadiusOfJupiter": 2.1673493,
+                "SolarRadius": 0.21673495
+              },
+              "GravityForce": 23.62411,
+              "Mass": {
+                "SolarMass": 7.094327E-05,
+                "MassOfJupiter": 0.0742776,
+                "MassOfEarh": 23.62411
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.2179744,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 8.388155,
+                "RadiusOfJupiter": 0.7695555,
+                "SolarRadius": 0.07695555
+              },
+              "GravityForce": 8.388155,
+              "Mass": {
+                "SolarMass": 2.5189654E-05,
+                "MassOfJupiter": 0.026373569,
+                "MassOfEarh": 8.388155
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.11879984,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 16.089846,
+                "RadiusOfJupiter": 1.4761326,
+                "SolarRadius": 0.14761326
+              },
+              "GravityForce": 16.089846,
+              "Mass": {
+                "SolarMass": 4.8317856E-05,
+                "MassOfJupiter": 0.050588794,
+                "MassOfEarh": 16.089846
+              },
+              "SystemId": 4
+            }
+          ]
+        },
+        {
+          "Id": 5,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2177.85,
+              "Farenheit": 3952.13,
+              "Kelvin": 2451.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 13.842793,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 56.664303,
+              "RadiusOfJupiter": 5.1985598,
+              "SolarRadius": 0.519856
+            },
+            "GravityForce": 105833.266,
+            "Mass": {
+              "SolarMass": 0.31781763,
+              "MassOfJupiter": 332.75507,
+              "MassOfEarh": 105833.266
+            },
+            "SystemId": 5
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.8108621,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 18.77498,
+                "RadiusOfJupiter": 1.7224753,
+                "SolarRadius": 0.17224753
+              },
+              "GravityForce": 18.77498,
+              "Mass": {
+                "SolarMass": 5.6381323E-05,
+                "MassOfJupiter": 0.059031244,
+                "MassOfEarh": 18.77498
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.8338194,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 6.758665,
+                "RadiusOfJupiter": 0.62006104,
+                "SolarRadius": 0.0620061
+              },
+              "GravityForce": 6.758665,
+              "Mass": {
+                "SolarMass": 2.0296291E-05,
+                "MassOfJupiter": 0.021250216,
+                "MassOfEarh": 6.758665
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.38433355,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 3.1985142,
+                "RadiusOfJupiter": 0.29344168,
+                "SolarRadius": 0.029344168
+              },
+              "GravityForce": 3.1985142,
+              "Mass": {
+                "SolarMass": 9.605148E-06,
+                "MassOfJupiter": 0.01005659,
+                "MassOfEarh": 3.1985142
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.4835414,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 17.783672,
+                "RadiusOfJupiter": 1.6315296,
+                "SolarRadius": 0.16315296
+              },
+              "GravityForce": 17.783672,
+              "Mass": {
+                "SolarMass": 5.3404423E-05,
+                "MassOfJupiter": 0.05591443,
+                "MassOfEarh": 17.783672
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0013342564,
+                "KilometersPerSecond": 400.0,
+                "MilesPerHour": 0.06904122
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.58418983,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 19.31496,
+                "RadiusOfJupiter": 1.7720149,
+                "SolarRadius": 0.17720148
+              },
+              "GravityForce": 19.31496,
+              "Mass": {
+                "SolarMass": 5.8002886E-05,
+                "MassOfJupiter": 0.060729023,
+                "MassOfEarh": 19.31496
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.80034566,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 13.30835,
+                "RadiusOfJupiter": 1.2209495,
+                "SolarRadius": 0.12209495
+              },
+              "GravityForce": 13.30835,
+              "Mass": {
+                "SolarMass": 3.9965013E-05,
+                "MassOfJupiter": 0.04184337,
+                "MassOfEarh": 13.30835
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.20947145,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 26.976791,
+                "RadiusOfJupiter": 2.474935,
+                "SolarRadius": 0.2474935
+              },
+              "GravityForce": 26.976791,
+              "Mass": {
+                "SolarMass": 8.1011385E-05,
+                "MassOfJupiter": 0.08481892,
+                "MassOfEarh": 26.976791
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.52271676,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 20.33521,
+                "RadiusOfJupiter": 1.8656157,
+                "SolarRadius": 0.18656157
+              },
+              "GravityForce": 20.33521,
+              "Mass": {
+                "SolarMass": 6.10667E-05,
+                "MassOfJupiter": 0.06393683,
+                "MassOfEarh": 20.33521
+              },
+              "SystemId": 5
+            }
+          ]
+        },
+        {
+          "Id": 6,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3364.85,
+              "Farenheit": 6088.73,
+              "Kelvin": 3638.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 5.1863327,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 49.10091,
+              "RadiusOfJupiter": 4.5046706,
+              "SolarRadius": 0.45046708
+            },
+            "GravityForce": 56345.863,
+            "Mass": {
+              "SolarMass": 0.1692068,
+              "MassOfJupiter": 177.15952,
+              "MassOfEarh": 56345.863
+            },
+            "SystemId": 6
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.6045391,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 11.266895,
+                "RadiusOfJupiter": 1.03366,
+                "SolarRadius": 0.10336601
+              },
+              "GravityForce": 11.266895,
+              "Mass": {
+                "SolarMass": 3.383452E-05,
+                "MassOfJupiter": 0.035424743,
+                "MassOfEarh": 11.266895
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.27875683,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 10.978095,
+                "RadiusOfJupiter": 1.0071647,
+                "SolarRadius": 0.10071647
+              },
+              "GravityForce": 10.978095,
+              "Mass": {
+                "SolarMass": 3.296725E-05,
+                "MassOfJupiter": 0.03451671,
+                "MassOfEarh": 10.978095
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.4301051,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 19.500544,
+                "RadiusOfJupiter": 1.7890407,
+                "SolarRadius": 0.17890407
+              },
+              "GravityForce": 19.500544,
+              "Mass": {
+                "SolarMass": 5.8560192E-05,
+                "MassOfJupiter": 0.061312523,
+                "MassOfEarh": 19.500544
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.5703516,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 11.944259,
+                "RadiusOfJupiter": 1.0958035,
+                "SolarRadius": 0.10958035
+              },
+              "GravityForce": 11.944259,
+              "Mass": {
+                "SolarMass": 3.5868645E-05,
+                "MassOfJupiter": 0.037554473,
+                "MassOfEarh": 11.944259
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.6614208,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 27.374363,
+                "RadiusOfJupiter": 2.5114095,
+                "SolarRadius": 0.25114095
+              },
+              "GravityForce": 27.374363,
+              "Mass": {
+                "SolarMass": 8.22053E-05,
+                "MassOfJupiter": 0.08606894,
+                "MassOfEarh": 27.374363
+              },
+              "SystemId": 6
+            }
+          ]
+        },
+        {
+          "Id": 7,
+          "GalaxyId": 1,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 5267.85,
+              "Farenheit": 9514.13,
+              "Kelvin": 5541.0
+            },
+            "Chromacity": {
+              "R": 255,
+              "G": 197,
+              "B": 57,
+              "A": 255,
+              "Hex": "#FFC539FF"
+            },
+            "Luminosity": 972.0,
+            "HydrogenLines": "Weak",
+            "Rarity": 7.6,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 114.67509,
+              "RadiusOfJupiter": 10.52065,
+              "SolarRadius": 1.052065
+            },
+            "GravityForce": 323847.22,
+            "Mass": {
+              "SolarMass": 0.97251415,
+              "MassOfJupiter": 1018.22235,
+              "MassOfEarh": 323847.22
+            },
+            "SystemId": 7
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.6482171,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 30.578966,
+                "RadiusOfJupiter": 2.8054097,
+                "SolarRadius": 0.28054097
+              },
+              "GravityForce": 30.578966,
+              "Mass": {
+                "SolarMass": 9.1828726E-05,
+                "MassOfJupiter": 0.096144676,
+                "MassOfEarh": 30.578966
+              },
+              "SystemId": 7
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.27229306,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 17.476212,
+                "RadiusOfJupiter": 1.6033221,
+                "SolarRadius": 0.16033222
+              },
+              "GravityForce": 17.476212,
+              "Mass": {
+                "SolarMass": 5.2481115E-05,
+                "MassOfJupiter": 0.054947726,
+                "MassOfEarh": 17.476212
+              },
+              "SystemId": 7
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.6846708,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 4.5346985,
+                "RadiusOfJupiter": 0.41602737,
+                "SolarRadius": 0.04160274
+              },
+              "GravityForce": 4.5346985,
+              "Mass": {
+                "SolarMass": 1.3617713E-05,
+                "MassOfJupiter": 0.014257746,
+                "MassOfEarh": 4.5346985
+              },
+              "SystemId": 7
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.6844753,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 6.7985196,
+                "RadiusOfJupiter": 0.62371737,
+                "SolarRadius": 0.06237174
+              },
+              "GravityForce": 6.7985196,
+              "Mass": {
+                "SolarMass": 2.0415975E-05,
+                "MassOfJupiter": 0.021375526,
+                "MassOfEarh": 6.7985196
+              },
+              "SystemId": 7
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.36262548,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 7.3463306,
+                "RadiusOfJupiter": 0.6739753,
+                "SolarRadius": 0.06739753
+              },
+              "GravityForce": 7.3463306,
+              "Mass": {
+                "SolarMass": 2.2061053E-05,
+                "MassOfJupiter": 0.023097923,
+                "MassOfEarh": 7.3463306
+              },
+              "SystemId": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Systems": [
+        {
+          "Id": 2,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 4596.85,
+              "Farenheit": 8306.33,
+              "Kelvin": 4870.0
+            },
+            "Chromacity": {
+              "R": 209,
+              "G": 116,
+              "B": 65,
+              "A": 255,
+              "Hex": "#D17441FF"
+            },
+            "Luminosity": 529.0,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 12.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 85.99065,
+              "RadiusOfJupiter": 7.8890505,
+              "SolarRadius": 0.788905
+            },
+            "GravityForce": 199708.75,
+            "Mass": {
+              "SolarMass": 0.59972596,
+              "MassOfJupiter": 627.9131,
+              "MassOfEarh": 199708.75
+            },
+            "SystemId": 2
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.47690007,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 2.348037,
+                "RadiusOfJupiter": 0.21541624,
+                "SolarRadius": 0.021541623
+              },
+              "GravityForce": 2.348037,
+              "Mass": {
+                "SolarMass": 7.0511624E-06,
+                "MassOfJupiter": 0.007382567,
+                "MassOfEarh": 2.348037
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0013342564,
+                "KilometersPerSecond": 400.0,
+                "MilesPerHour": 0.06904122
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.6508981,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 8.873758,
+                "RadiusOfJupiter": 0.8141062,
+                "SolarRadius": 0.081410624
+              },
+              "GravityForce": 8.873758,
+              "Mass": {
+                "SolarMass": 2.6647924E-05,
+                "MassOfJupiter": 0.027900375,
+                "MassOfEarh": 8.873758
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.5357384,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 7.554864,
+                "RadiusOfJupiter": 0.6931068,
+                "SolarRadius": 0.06931068
+              },
+              "GravityForce": 7.554864,
+              "Mass": {
+                "SolarMass": 2.268728E-05,
+                "MassOfJupiter": 0.023753582,
+                "MassOfEarh": 7.554864
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.60899144,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 26.12419,
+                "RadiusOfJupiter": 2.3967147,
+                "SolarRadius": 0.23967147
+              },
+              "GravityForce": 26.12419,
+              "Mass": {
+                "SolarMass": 7.845102E-05,
+                "MassOfJupiter": 0.08213822,
+                "MassOfEarh": 26.12419
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.29948232,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 17.637484,
+                "RadiusOfJupiter": 1.6181177,
+                "SolarRadius": 0.16181177
+              },
+              "GravityForce": 17.637484,
+              "Mass": {
+                "SolarMass": 5.2965417E-05,
+                "MassOfJupiter": 0.05545479,
+                "MassOfEarh": 17.637484
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.72685844,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 10.757022,
+                "RadiusOfJupiter": 0.98688275,
+                "SolarRadius": 0.098688275
+              },
+              "GravityForce": 10.757022,
+              "Mass": {
+                "SolarMass": 3.230337E-05,
+                "MassOfJupiter": 0.03382163,
+                "MassOfEarh": 10.757022
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.11994338,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 27.513077,
+                "RadiusOfJupiter": 2.5241354,
+                "SolarRadius": 0.25241354
+              },
+              "GravityForce": 27.513077,
+              "Mass": {
+                "SolarMass": 8.262185E-05,
+                "MassOfJupiter": 0.08650508,
+                "MassOfEarh": 27.513077
+              },
+              "SystemId": 2
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.5732603,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 20.357193,
+                "RadiusOfJupiter": 1.8676324,
+                "SolarRadius": 0.18676324
+              },
+              "GravityForce": 20.357193,
+              "Mass": {
+                "SolarMass": 6.113271E-05,
+                "MassOfJupiter": 0.06400595,
+                "MassOfEarh": 20.357193
+              },
+              "SystemId": 2
+            }
+          ]
+        },
+        {
+          "Id": 4,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2773.85,
+              "Farenheit": 5024.93,
+              "Kelvin": 3047.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 76.49303,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 35.49892,
+              "RadiusOfJupiter": 3.2567816,
+              "SolarRadius": 0.32567817
+            },
+            "GravityForce": 65640.4,
+            "Mass": {
+              "SolarMass": 0.19711831,
+              "MassOfJupiter": 206.38287,
+              "MassOfEarh": 65640.4
+            },
+            "SystemId": 4
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.117954664,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 10.633236,
+                "RadiusOfJupiter": 0.9755262,
+                "SolarRadius": 0.09755262
+              },
+              "GravityForce": 10.633236,
+              "Mass": {
+                "SolarMass": 3.193164E-05,
+                "MassOfJupiter": 0.033432424,
+                "MassOfEarh": 10.633236
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.18600714,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 17.160091,
+                "RadiusOfJupiter": 1.5743203,
+                "SolarRadius": 0.15743203
+              },
+              "GravityForce": 17.160091,
+              "Mass": {
+                "SolarMass": 5.1531806E-05,
+                "MassOfJupiter": 0.0539538,
+                "MassOfEarh": 17.160091
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.19752228,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 15.799053,
+                "RadiusOfJupiter": 1.4494544,
+                "SolarRadius": 0.14494544
+              },
+              "GravityForce": 15.799053,
+              "Mass": {
+                "SolarMass": 4.7444606E-05,
+                "MassOfJupiter": 0.049674504,
+                "MassOfEarh": 15.799053
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.749483,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 13.041731,
+                "RadiusOfJupiter": 1.1964891,
+                "SolarRadius": 0.1196489
+              },
+              "GravityForce": 13.041731,
+              "Mass": {
+                "SolarMass": 3.916436E-05,
+                "MassOfJupiter": 0.041005082,
+                "MassOfEarh": 13.041731
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.5273409,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 9.2827,
+                "RadiusOfJupiter": 0.8516238,
+                "SolarRadius": 0.08516238
+              },
+              "GravityForce": 9.2827,
+              "Mass": {
+                "SolarMass": 2.7875974E-05,
+                "MassOfJupiter": 0.029186144,
+                "MassOfEarh": 9.2827
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.69345975,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 17.52022,
+                "RadiusOfJupiter": 1.6073596,
+                "SolarRadius": 0.16073596
+              },
+              "GravityForce": 17.52022,
+              "Mass": {
+                "SolarMass": 5.261327E-05,
+                "MassOfJupiter": 0.055086095,
+                "MassOfEarh": 17.52022
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.30557665,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 7.4444466,
+                "RadiusOfJupiter": 0.6829768,
+                "SolarRadius": 0.06829768
+              },
+              "GravityForce": 7.4444466,
+              "Mass": {
+                "SolarMass": 2.2355696E-05,
+                "MassOfJupiter": 0.023406414,
+                "MassOfEarh": 7.4444466
+              },
+              "SystemId": 4
+            }
+          ]
+        },
+        {
+          "Id": 6,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2339.85,
+              "Farenheit": 4243.73,
+              "Kelvin": 2613.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 19.770922,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 65.465,
+              "RadiusOfJupiter": 6.0059633,
+              "SolarRadius": 0.6005963
+            },
+            "GravityForce": 52147.62,
+            "Mass": {
+              "SolarMass": 0.15659946,
+              "MassOfJupiter": 163.95964,
+              "MassOfEarh": 52147.62
+            },
+            "SystemId": 6
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.10732632,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 10.701317,
+                "RadiusOfJupiter": 0.9817722,
+                "SolarRadius": 0.09817722
+              },
+              "GravityForce": 10.701317,
+              "Mass": {
+                "SolarMass": 3.2136086E-05,
+                "MassOfJupiter": 0.033646483,
+                "MassOfEarh": 10.701317
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.67032456,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 8.920418,
+                "RadiusOfJupiter": 0.818387,
+                "SolarRadius": 0.0818387
+              },
+              "GravityForce": 8.920418,
+              "Mass": {
+                "SolarMass": 2.6788042E-05,
+                "MassOfJupiter": 0.028047081,
+                "MassOfEarh": 8.920418
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 18887.148,
+                "LightYears": 0.0005989075,
+                "AU": 37.85
+              },
+              "Albedo": 0.6937137,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 9.976391,
+                "RadiusOfJupiter": 0.9152652,
+                "SolarRadius": 0.09152652
+              },
+              "GravityForce": 9.976391,
+              "Mass": {
+                "SolarMass": 2.9959132E-05,
+                "MassOfJupiter": 0.031367213,
+                "MassOfEarh": 9.976391
+              },
+              "SystemId": 6
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2586.85,
+              "Farenheit": 4688.33,
+              "Kelvin": 2860.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 34.584274,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 38.619545,
+              "RadiusOfJupiter": 3.5430775,
+              "SolarRadius": 0.35430774
+            },
+            "GravityForce": 137098.22,
+            "Mass": {
+              "SolarMass": 0.41170636,
+              "MassOfJupiter": 431.05655,
+              "MassOfEarh": 137098.22
+            },
+            "SystemId": 8
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.53899103,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 4.613983,
+                "RadiusOfJupiter": 0.4233012,
+                "SolarRadius": 0.04233012
+              },
+              "GravityForce": 4.613983,
+              "Mass": {
+                "SolarMass": 1.3855805E-05,
+                "MassOfJupiter": 0.014507028,
+                "MassOfEarh": 4.613983
+              },
+              "SystemId": 8
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.8132742,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 20.600706,
+                "RadiusOfJupiter": 1.8899729,
+                "SolarRadius": 0.1889973
+              },
+              "GravityForce": 20.600706,
+              "Mass": {
+                "SolarMass": 6.186398E-05,
+                "MassOfJupiter": 0.06477159,
+                "MassOfEarh": 20.600706
+              },
+              "SystemId": 8
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.18057375,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 23.172153,
+                "RadiusOfJupiter": 2.1258857,
+                "SolarRadius": 0.21258856
+              },
+              "GravityForce": 23.172153,
+              "Mass": {
+                "SolarMass": 6.958604E-05,
+                "MassOfJupiter": 0.07285659,
+                "MassOfEarh": 23.172153
+              },
+              "SystemId": 8
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.6424103,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 4.501059,
+                "RadiusOfJupiter": 0.41294122,
+                "SolarRadius": 0.04129412
+              },
+              "GravityForce": 4.501059,
+              "Mass": {
+                "SolarMass": 1.3516694E-05,
+                "MassOfJupiter": 0.014151978,
+                "MassOfEarh": 4.501059
+              },
+              "SystemId": 8
+            }
+          ]
+        },
+        {
+          "Id": 10,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3232.85,
+              "Farenheit": 5851.13,
+              "Kelvin": 3506.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 26.716856,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 63.160267,
+              "RadiusOfJupiter": 5.79452,
+              "SolarRadius": 0.579452
+            },
+            "GravityForce": 129872.63,
+            "Mass": {
+              "SolarMass": 0.3900079,
+              "MassOfJupiter": 408.3383,
+              "MassOfEarh": 129872.63
+            },
+            "SystemId": 10
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.23630422,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 20.082561,
+                "RadiusOfJupiter": 1.8424368,
+                "SolarRadius": 0.18424368
+              },
+              "GravityForce": 20.082561,
+              "Mass": {
+                "SolarMass": 6.0307993E-05,
+                "MassOfJupiter": 0.06314247,
+                "MassOfEarh": 20.082561
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.4464286,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 5.937334,
+                "RadiusOfJupiter": 0.54470956,
+                "SolarRadius": 0.054470956
+              },
+              "GravityForce": 5.937334,
+              "Mass": {
+                "SolarMass": 1.7829832E-05,
+                "MassOfJupiter": 0.018667834,
+                "MassOfEarh": 5.937334
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.8774028,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 3.5492644,
+                "RadiusOfJupiter": 0.3256206,
+                "SolarRadius": 0.03256206
+              },
+              "GravityForce": 3.5492642,
+              "Mass": {
+                "SolarMass": 1.0658451E-05,
+                "MassOfJupiter": 0.011159399,
+                "MassOfEarh": 3.5492642
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.5779445,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 1.0013616,
+                "RadiusOfJupiter": 0.091868035,
+                "SolarRadius": 0.009186803
+              },
+              "GravityForce": 1.0013616,
+              "Mass": {
+                "SolarMass": 3.007092E-06,
+                "MassOfJupiter": 0.0031484251,
+                "MassOfEarh": 1.0013616
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.5235115,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 7.828219,
+                "RadiusOfJupiter": 0.71818525,
+                "SolarRadius": 0.07181852
+              },
+              "GravityForce": 7.828219,
+              "Mass": {
+                "SolarMass": 2.3508164E-05,
+                "MassOfJupiter": 0.024613049,
+                "MassOfEarh": 7.828219
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0012008641,
+                "KilometersPerSecond": 360.00998,
+                "MilesPerHour": 0.06213882
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.55693626,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 18.74912,
+                "RadiusOfJupiter": 1.7201029,
+                "SolarRadius": 0.17201029
+              },
+              "GravityForce": 18.74912,
+              "Mass": {
+                "SolarMass": 5.6303666E-05,
+                "MassOfJupiter": 0.05894994,
+                "MassOfEarh": 18.74912
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.71340925,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 20.794914,
+                "RadiusOfJupiter": 1.9077903,
+                "SolarRadius": 0.19077903
+              },
+              "GravityForce": 20.794914,
+              "Mass": {
+                "SolarMass": 6.2447194E-05,
+                "MassOfJupiter": 0.06538221,
+                "MassOfEarh": 20.794914
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 16816.3,
+                "LightYears": 0.0005332414,
+                "AU": 33.7
+              },
+              "Albedo": 0.8933638,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 6.663263,
+                "RadiusOfJupiter": 0.6113085,
+                "SolarRadius": 0.06113085
+              },
+              "GravityForce": 6.663263,
+              "Mass": {
+                "SolarMass": 2.0009798E-05,
+                "MassOfJupiter": 0.02095026,
+                "MassOfEarh": 6.663263
+              },
+              "SystemId": 10
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 20958.0,
+                "LightYears": 0.0006645738,
+                "AU": 42.0
+              },
+              "Albedo": 0.15478213,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 24.179087,
+                "RadiusOfJupiter": 2.2182648,
+                "SolarRadius": 0.22182648
+              },
+              "GravityForce": 24.179087,
+              "Mass": {
+                "SolarMass": 7.260987E-05,
+                "MassOfJupiter": 0.076022536,
+                "MassOfEarh": 24.179087
+              },
+              "SystemId": 10
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "GalaxyId": 2,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2808.85,
+              "Farenheit": 5087.9297,
+              "Kelvin": 3082.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 49.69074,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 29.852226,
+              "RadiusOfJupiter": 2.7387362,
+              "SolarRadius": 0.27387363
+            },
+            "GravityForce": 145492.73,
+            "Mass": {
+              "SolarMass": 0.43691513,
+              "MassOfJupiter": 457.45013,
+              "MassOfEarh": 145492.73
+            },
+            "SystemId": 12
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.6912017,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 31.654812,
+                "RadiusOfJupiter": 2.9041111,
+                "SolarRadius": 0.2904111
+              },
+              "GravityForce": 31.654812,
+              "Mass": {
+                "SolarMass": 9.50595E-05,
+                "MassOfJupiter": 0.09952729,
+                "MassOfEarh": 31.654812
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.78452903,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 1.3561722,
+                "RadiusOfJupiter": 0.12441947,
+                "SolarRadius": 0.012441947
+              },
+              "GravityForce": 1.3561722,
+              "Mass": {
+                "SolarMass": 4.072589E-06,
+                "MassOfJupiter": 0.004264001,
+                "MassOfEarh": 1.3561722
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.79279816,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 6.1371503,
+                "RadiusOfJupiter": 0.5630413,
+                "SolarRadius": 0.05630413
+              },
+              "GravityForce": 6.1371503,
+              "Mass": {
+                "SolarMass": 1.842988E-05,
+                "MassOfJupiter": 0.019296085,
+                "MassOfEarh": 6.1371503
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.48983288,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 24.519947,
+                "RadiusOfJupiter": 2.2495363,
+                "SolarRadius": 0.22495364
+              },
+              "GravityForce": 24.519947,
+              "Mass": {
+                "SolarMass": 7.363348E-05,
+                "MassOfJupiter": 0.07709425,
+                "MassOfEarh": 24.519947
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.48950022,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 4.072027,
+                "RadiusOfJupiter": 0.3735805,
+                "SolarRadius": 0.03735805
+              },
+              "GravityForce": 4.072027,
+              "Mass": {
+                "SolarMass": 1.222831E-05,
+                "MassOfJupiter": 0.01280304,
+                "MassOfEarh": 4.072027
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.22870639,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 22.78503,
+                "RadiusOfJupiter": 2.0903697,
+                "SolarRadius": 0.20903698
+              },
+              "GravityForce": 22.78503,
+              "Mass": {
+                "SolarMass": 6.842351E-05,
+                "MassOfJupiter": 0.07163942,
+                "MassOfEarh": 22.78503
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.54935825,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 29.28566,
+                "RadiusOfJupiter": 2.6867578,
+                "SolarRadius": 0.26867577
+              },
+              "GravityForce": 29.28566,
+              "Mass": {
+                "SolarMass": 8.794492E-05,
+                "MassOfJupiter": 0.092078336,
+                "MassOfEarh": 29.28566
+              },
+              "SystemId": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Systems": [
+        {
+          "Id": 3,
+          "GalaxyId": 3,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2805.85,
+              "Farenheit": 5082.53,
+              "Kelvin": 3079.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 65.18344,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 8.395723,
+              "RadiusOfJupiter": 0.7702499,
+              "SolarRadius": 0.07702499
+            },
+            "GravityForce": 61528.066,
+            "Mass": {
+              "SolarMass": 0.18476897,
+              "MassOfJupiter": 193.45312,
+              "MassOfEarh": 61528.066
+            },
+            "SystemId": 3
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.8773045,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 29.097958,
+                "RadiusOfJupiter": 2.6695373,
+                "SolarRadius": 0.26695374
+              },
+              "GravityForce": 29.097958,
+              "Mass": {
+                "SolarMass": 8.738125E-05,
+                "MassOfJupiter": 0.091488175,
+                "MassOfEarh": 29.097958
+              },
+              "SystemId": 3
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.20828703,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 9.839442,
+                "RadiusOfJupiter": 0.9027011,
+                "SolarRadius": 0.09027011
+              },
+              "GravityForce": 9.839442,
+              "Mass": {
+                "SolarMass": 2.9547875E-05,
+                "MassOfJupiter": 0.030936625,
+                "MassOfEarh": 9.839442
+              },
+              "SystemId": 3
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.68491703,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 5.2468014,
+                "RadiusOfJupiter": 0.4813579,
+                "SolarRadius": 0.04813579
+              },
+              "GravityForce": 5.2468014,
+              "Mass": {
+                "SolarMass": 1.575616E-05,
+                "MassOfJupiter": 0.016496701,
+                "MassOfEarh": 5.2468014
+              },
+              "SystemId": 3
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 18887.148,
+                "LightYears": 0.0005989075,
+                "AU": 37.85
+              },
+              "Albedo": 0.8787892,
+              "RotationTime": 32.0,
+              "Radius": {
+                "RadiusOfEarth": 9.308538,
+                "RadiusOfJupiter": 0.85399437,
+                "SolarRadius": 0.085399434
+              },
+              "GravityForce": 9.308538,
+              "Mass": {
+                "SolarMass": 2.7953569E-05,
+                "MassOfJupiter": 0.029267387,
+                "MassOfEarh": 9.308538
+              },
+              "SystemId": 3
+            }
+          ]
+        },
+        {
+          "Id": 6,
+          "GalaxyId": 3,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2501.85,
+              "Farenheit": 4535.33,
+              "Kelvin": 2775.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 24.36069,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 4.5021367,
+              "RadiusOfJupiter": 0.41304007,
+              "SolarRadius": 0.041304007
+            },
+            "GravityForce": 92400.05,
+            "Mass": {
+              "SolarMass": 0.27747762,
+              "MassOfJupiter": 290.51907,
+              "MassOfEarh": 92400.05
+            },
+            "SystemId": 6
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.5438302,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 11.146461,
+                "RadiusOfJupiter": 1.022611,
+                "SolarRadius": 0.1022611
+              },
+              "GravityForce": 11.146461,
+              "Mass": {
+                "SolarMass": 3.3472854E-05,
+                "MassOfJupiter": 0.03504608,
+                "MassOfEarh": 11.146461
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.739936,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 15.434817,
+                "RadiusOfJupiter": 1.4160383,
+                "SolarRadius": 0.14160383
+              },
+              "GravityForce": 15.434817,
+              "Mass": {
+                "SolarMass": 4.6350804E-05,
+                "MassOfJupiter": 0.048529293,
+                "MassOfEarh": 15.434817
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.20541427,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 5.3351455,
+                "RadiusOfJupiter": 0.48946288,
+                "SolarRadius": 0.048946287
+              },
+              "GravityForce": 5.3351455,
+              "Mass": {
+                "SolarMass": 1.6021459E-05,
+                "MassOfJupiter": 0.016774468,
+                "MassOfEarh": 5.3351455
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.5025192,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 26.164509,
+                "RadiusOfJupiter": 2.4004135,
+                "SolarRadius": 0.24004136
+              },
+              "GravityForce": 26.164509,
+              "Mass": {
+                "SolarMass": 7.85721E-05,
+                "MassOfJupiter": 0.08226499,
+                "MassOfEarh": 26.164509
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.40604734,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 7.050321,
+                "RadiusOfJupiter": 0.6468184,
+                "SolarRadius": 0.06468184
+              },
+              "GravityForce": 7.0503206,
+              "Mass": {
+                "SolarMass": 2.1172134E-05,
+                "MassOfJupiter": 0.022167224,
+                "MassOfEarh": 7.0503206
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.13730514,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 17.83692,
+                "RadiusOfJupiter": 1.6364146,
+                "SolarRadius": 0.16364147
+              },
+              "GravityForce": 17.83692,
+              "Mass": {
+                "SolarMass": 5.3564323E-05,
+                "MassOfJupiter": 0.056081846,
+                "MassOfEarh": 17.83692
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0012008641,
+                "KilometersPerSecond": 360.00998,
+                "MilesPerHour": 0.06213882
+              },
+              "DistanceToSun": {
+                "LightSeconds": 16816.3,
+                "LightYears": 0.0005332414,
+                "AU": 33.7
+              },
+              "Albedo": 0.32042104,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 31.542824,
+                "RadiusOfJupiter": 2.893837,
+                "SolarRadius": 0.2893837
+              },
+              "GravityForce": 31.542826,
+              "Mass": {
+                "SolarMass": 9.4723204E-05,
+                "MassOfJupiter": 0.09917519,
+                "MassOfEarh": 31.542826
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 16816.3,
+                "LightYears": 0.0005332414,
+                "AU": 33.7
+              },
+              "Albedo": 0.18334886,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 9.8148775,
+                "RadiusOfJupiter": 0.9004474,
+                "SolarRadius": 0.090044744
+              },
+              "GravityForce": 9.8148775,
+              "Mass": {
+                "SolarMass": 2.9474108E-05,
+                "MassOfJupiter": 0.03085939,
+                "MassOfEarh": 9.8148775
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 18887.148,
+                "LightYears": 0.0005989075,
+                "AU": 37.85
+              },
+              "Albedo": 0.6562856,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 5.69841,
+                "RadiusOfJupiter": 0.5227899,
+                "SolarRadius": 0.05227899
+              },
+              "GravityForce": 5.69841,
+              "Mass": {
+                "SolarMass": 1.7112343E-05,
+                "MassOfJupiter": 0.017916624,
+                "MassOfEarh": 5.69841
+              },
+              "SystemId": 6
+            }
+          ]
+        },
+        {
+          "Id": 9,
+          "GalaxyId": 3,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3172.85,
+              "Farenheit": 5743.13,
+              "Kelvin": 3446.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 69.42351,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 65.12654,
+              "RadiusOfJupiter": 5.974912,
+              "SolarRadius": 0.5974912
+            },
+            "GravityForce": 133972.25,
+            "Mass": {
+              "SolarMass": 0.40231907,
+              "MassOfJupiter": 421.22806,
+              "MassOfEarh": 133972.25
+            },
+            "SystemId": 9
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.49718428,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 17.03461,
+                "RadiusOfJupiter": 1.5628083,
+                "SolarRadius": 0.15628083
+              },
+              "GravityForce": 17.03461,
+              "Mass": {
+                "SolarMass": 5.1154988E-05,
+                "MassOfJupiter": 0.053559273,
+                "MassOfEarh": 17.03461
+              },
+              "SystemId": 9
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.19035666,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 27.481739,
+                "RadiusOfJupiter": 2.5212603,
+                "SolarRadius": 0.25212604
+              },
+              "GravityForce": 27.481737,
+              "Mass": {
+                "SolarMass": 8.252774E-05,
+                "MassOfJupiter": 0.086406544,
+                "MassOfEarh": 27.481737
+              },
+              "SystemId": 9
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.356236,
+              "RotationTime": 25.602001,
+              "Radius": {
+                "RadiusOfEarth": 31.025543,
+                "RadiusOfJupiter": 2.8463802,
+                "SolarRadius": 0.28463802
+              },
+              "GravityForce": 31.025543,
+              "Mass": {
+                "SolarMass": 9.31698E-05,
+                "MassOfJupiter": 0.09754878,
+                "MassOfEarh": 31.025543
+              },
+              "SystemId": 9
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 20958.0,
+                "LightYears": 0.0006645738,
+                "AU": 42.0
+              },
+              "Albedo": 0.6305606,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 10.483591,
+                "RadiusOfJupiter": 0.9617973,
+                "SolarRadius": 0.09617973
+              },
+              "GravityForce": 10.483591,
+              "Mass": {
+                "SolarMass": 3.1482257E-05,
+                "MassOfJupiter": 0.032961924,
+                "MassOfEarh": 10.483591
+              },
+              "SystemId": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Systems": [
+        {
+          "Id": 4,
+          "GalaxyId": 4,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2404.85,
+              "Farenheit": 4360.73,
+              "Kelvin": 2678.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 75.91657,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 43.590286,
+              "RadiusOfJupiter": 3.999109,
+              "SolarRadius": 0.3999109
+            },
+            "GravityForce": 67867.36,
+            "Mass": {
+              "SolarMass": 0.20380588,
+              "MassOfJupiter": 213.38475,
+              "MassOfEarh": 67867.36
+            },
+            "SystemId": 4
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.5216221,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 7.1801085,
+                "RadiusOfJupiter": 0.65872556,
+                "SolarRadius": 0.06587256
+              },
+              "GravityForce": 7.180109,
+              "Mass": {
+                "SolarMass": 2.156189E-05,
+                "MassOfJupiter": 0.022575298,
+                "MassOfEarh": 7.180109
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.85719097,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 3.3295991,
+                "RadiusOfJupiter": 0.3054678,
+                "SolarRadius": 0.03054678
+              },
+              "GravityForce": 3.3295991,
+              "Mass": {
+                "SolarMass": 9.9987965E-06,
+                "MassOfJupiter": 0.01046874,
+                "MassOfEarh": 3.3295991
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.57843065,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 4.4327836,
+                "RadiusOfJupiter": 0.4066774,
+                "SolarRadius": 0.04066774
+              },
+              "GravityForce": 4.4327836,
+              "Mass": {
+                "SolarMass": 1.3311663E-05,
+                "MassOfJupiter": 0.013937311,
+                "MassOfEarh": 4.4327836
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.24130443,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 29.110207,
+                "RadiusOfJupiter": 2.6706612,
+                "SolarRadius": 0.26706612
+              },
+              "GravityForce": 29.110207,
+              "Mass": {
+                "SolarMass": 8.741804E-05,
+                "MassOfJupiter": 0.09152669,
+                "MassOfEarh": 29.110207
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.2260584,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 27.757229,
+                "RadiusOfJupiter": 2.5465348,
+                "SolarRadius": 0.25465348
+              },
+              "GravityForce": 27.757229,
+              "Mass": {
+                "SolarMass": 8.3355044E-05,
+                "MassOfJupiter": 0.08727273,
+                "MassOfEarh": 27.757229
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.7014014,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 5.92303,
+                "RadiusOfJupiter": 0.54339725,
+                "SolarRadius": 0.054339726
+              },
+              "GravityForce": 5.92303,
+              "Mass": {
+                "SolarMass": 1.7786877E-05,
+                "MassOfJupiter": 0.01862286,
+                "MassOfEarh": 5.92303
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.46528077,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 18.765839,
+                "RadiusOfJupiter": 1.7216365,
+                "SolarRadius": 0.17216365
+              },
+              "GravityForce": 18.765839,
+              "Mass": {
+                "SolarMass": 5.635387E-05,
+                "MassOfJupiter": 0.059002504,
+                "MassOfEarh": 18.765839
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.13309714,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 6.27679,
+                "RadiusOfJupiter": 0.57585233,
+                "SolarRadius": 0.057585232
+              },
+              "GravityForce": 6.27679,
+              "Mass": {
+                "SolarMass": 1.884922E-05,
+                "MassOfJupiter": 0.019735133,
+                "MassOfEarh": 6.27679
+              },
+              "SystemId": 4
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.31992555,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 11.801096,
+                "RadiusOfJupiter": 1.0826694,
+                "SolarRadius": 0.108266935
+              },
+              "GravityForce": 11.801096,
+              "Mass": {
+                "SolarMass": 3.5438727E-05,
+                "MassOfJupiter": 0.037104346,
+                "MassOfEarh": 11.801096
+              },
+              "SystemId": 4
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "GalaxyId": 4,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2340.85,
+              "Farenheit": 4245.53,
+              "Kelvin": 2614.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 21.231388,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 20.995163,
+              "RadiusOfJupiter": 1.9261618,
+              "SolarRadius": 0.19261618
+            },
+            "GravityForce": 74840.2,
+            "Mass": {
+              "SolarMass": 0.22474536,
+              "MassOfJupiter": 235.3084,
+              "MassOfEarh": 74840.2
+            },
+            "SystemId": 8
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.24132967,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 2.178578,
+                "RadiusOfJupiter": 0.19986954,
+                "SolarRadius": 0.019986954
+              },
+              "GravityForce": 2.178578,
+              "Mass": {
+                "SolarMass": 6.542276E-06,
+                "MassOfJupiter": 0.006849763,
+                "MassOfEarh": 2.178578
+              },
+              "SystemId": 8
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "GalaxyId": 4,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2759.85,
+              "Farenheit": 4999.73,
+              "Kelvin": 3033.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 79.52729,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 37.959095,
+              "RadiusOfJupiter": 3.4824858,
+              "SolarRadius": 0.34824857
+            },
+            "GravityForce": 55923.098,
+            "Mass": {
+              "SolarMass": 0.16793723,
+              "MassOfJupiter": 175.83029,
+              "MassOfEarh": 55923.098
+            },
+            "SystemId": 12
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.33103743,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 4.8310256,
+                "RadiusOfJupiter": 0.44321334,
+                "SolarRadius": 0.044321336
+              },
+              "GravityForce": 4.8310256,
+              "Mass": {
+                "SolarMass": 1.4507585E-05,
+                "MassOfJupiter": 0.015189441,
+                "MassOfEarh": 4.8310256
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.12144263,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 1.0799483,
+                "RadiusOfJupiter": 0.09907783,
+                "SolarRadius": 0.009907783
+              },
+              "GravityForce": 1.0799483,
+              "Mass": {
+                "SolarMass": 3.243088E-06,
+                "MassOfJupiter": 0.0033955132,
+                "MassOfEarh": 1.0799483
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.37485325,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 18.900148,
+                "RadiusOfJupiter": 1.7339586,
+                "SolarRadius": 0.17339586
+              },
+              "GravityForce": 18.900148,
+              "Mass": {
+                "SolarMass": 5.6757202E-05,
+                "MassOfJupiter": 0.05942479,
+                "MassOfEarh": 18.900148
+              },
+              "SystemId": 12
+            }
+          ]
+        },
+        {
+          "Id": 16,
+          "GalaxyId": 4,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2843.85,
+              "Farenheit": 5150.9297,
+              "Kelvin": 3117.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 8.025564,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 13.795019,
+              "RadiusOfJupiter": 1.265598,
+              "SolarRadius": 0.12655981
+            },
+            "GravityForce": 61856.36,
+            "Mass": {
+              "SolarMass": 0.18575484,
+              "MassOfJupiter": 194.48532,
+              "MassOfEarh": 61856.36
+            },
+            "SystemId": 16
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0012008641,
+                "KilometersPerSecond": 360.00998,
+                "MilesPerHour": 0.06213882
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.74314123,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 1.2879157,
+                "RadiusOfJupiter": 0.11815741,
+                "SolarRadius": 0.011815741
+              },
+              "GravityForce": 1.2879157,
+              "Mass": {
+                "SolarMass": 3.867615E-06,
+                "MassOfJupiter": 0.004049393,
+                "MassOfEarh": 1.2879157
+              },
+              "SystemId": 16
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.72171056,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 10.489431,
+                "RadiusOfJupiter": 0.96233314,
+                "SolarRadius": 0.096233316
+              },
+              "GravityForce": 10.489431,
+              "Mass": {
+                "SolarMass": 3.1499796E-05,
+                "MassOfJupiter": 0.032980286,
+                "MassOfEarh": 10.489431
+              },
+              "SystemId": 16
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.87420654,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 3.732043,
+                "RadiusOfJupiter": 0.3423893,
+                "SolarRadius": 0.034238927
+              },
+              "GravityForce": 3.732043,
+              "Mass": {
+                "SolarMass": 1.1207337E-05,
+                "MassOfJupiter": 0.011734081,
+                "MassOfEarh": 3.732043
+              },
+              "SystemId": 16
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.6114117,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 1.4828508,
+                "RadiusOfJupiter": 0.13604136,
+                "SolarRadius": 0.013604135
+              },
+              "GravityForce": 1.4828508,
+              "Mass": {
+                "SolarMass": 4.453005E-06,
+                "MassOfJupiter": 0.0046622963,
+                "MassOfEarh": 1.4828508
+              },
+              "SystemId": 16
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.10874161,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 31.815502,
+                "RadiusOfJupiter": 2.9188535,
+                "SolarRadius": 0.29188535
+              },
+              "GravityForce": 31.815504,
+              "Mass": {
+                "SolarMass": 9.5542055E-05,
+                "MassOfJupiter": 0.10003253,
+                "MassOfEarh": 31.815504
+              },
+              "SystemId": 16
+            }
+          ]
+        },
+        {
+          "Id": 20,
+          "GalaxyId": 4,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3404.85,
+              "Farenheit": 6160.73,
+              "Kelvin": 3678.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 8.192918,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 8.008128,
+              "RadiusOfJupiter": 0.73469067,
+              "SolarRadius": 0.073469065
+            },
+            "GravityForce": 58288.242,
+            "Mass": {
+              "SolarMass": 0.17503977,
+              "MassOfJupiter": 183.26663,
+              "MassOfEarh": 58288.242
+            },
+            "SystemId": 20
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.5934587,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 3.0610118,
+                "RadiusOfJupiter": 0.28082675,
+                "SolarRadius": 0.028082676
+              },
+              "GravityForce": 3.0610118,
+              "Mass": {
+                "SolarMass": 9.1922275E-06,
+                "MassOfJupiter": 0.009624262,
+                "MassOfEarh": 3.0610118
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.6586996,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 5.870411,
+                "RadiusOfJupiter": 0.5385698,
+                "SolarRadius": 0.05385698
+              },
+              "GravityForce": 5.870411,
+              "Mass": {
+                "SolarMass": 1.7628861E-05,
+                "MassOfJupiter": 0.018457418,
+                "MassOfEarh": 5.870411
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.68584543,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 12.693848,
+                "RadiusOfJupiter": 1.1645732,
+                "SolarRadius": 0.11645732
+              },
+              "GravityForce": 12.693848,
+              "Mass": {
+                "SolarMass": 3.8119662E-05,
+                "MassOfJupiter": 0.039911285,
+                "MassOfEarh": 12.693848
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.19593519,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 27.693111,
+                "RadiusOfJupiter": 2.5406525,
+                "SolarRadius": 0.25406525
+              },
+              "GravityForce": 27.693113,
+              "Mass": {
+                "SolarMass": 8.31625E-05,
+                "MassOfJupiter": 0.087071136,
+                "MassOfEarh": 27.693113
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.817822,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 15.8559065,
+                "RadiusOfJupiter": 1.4546703,
+                "SolarRadius": 0.14546703
+              },
+              "GravityForce": 15.855906,
+              "Mass": {
+                "SolarMass": 4.7615333E-05,
+                "MassOfJupiter": 0.049853254,
+                "MassOfEarh": 15.855906
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.80652505,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 18.745853,
+                "RadiusOfJupiter": 1.7198031,
+                "SolarRadius": 0.1719803
+              },
+              "GravityForce": 18.745853,
+              "Mass": {
+                "SolarMass": 5.6293855E-05,
+                "MassOfJupiter": 0.058939666,
+                "MassOfEarh": 18.745853
+              },
+              "SystemId": 20
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.78975874,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 10.370339,
+                "RadiusOfJupiter": 0.95140725,
+                "SolarRadius": 0.095140725
+              },
+              "GravityForce": 10.370339,
+              "Mass": {
+                "SolarMass": 3.114216E-05,
+                "MassOfJupiter": 0.03260584,
+                "MassOfEarh": 10.370339
+              },
+              "SystemId": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Systems": [
+        {
+          "Id": 5,
+          "GalaxyId": 5,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2842.85,
+              "Farenheit": 5149.13,
+              "Kelvin": 3116.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 69.60254,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 42.567795,
+              "RadiusOfJupiter": 3.9053023,
+              "SolarRadius": 0.39053023
+            },
+            "GravityForce": 124566.555,
+            "Mass": {
+              "SolarMass": 0.37407374,
+              "MassOfJupiter": 391.6552,
+              "MassOfEarh": 124566.555
+            },
+            "SystemId": 5
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.39462635,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 10.581641,
+                "RadiusOfJupiter": 0.9707928,
+                "SolarRadius": 0.09707928
+              },
+              "GravityForce": 10.581641,
+              "Mass": {
+                "SolarMass": 3.17767E-05,
+                "MassOfJupiter": 0.033270206,
+                "MassOfEarh": 10.581641
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.17613894,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 20.033897,
+                "RadiusOfJupiter": 1.8379723,
+                "SolarRadius": 0.18379723
+              },
+              "GravityForce": 20.033897,
+              "Mass": {
+                "SolarMass": 6.0161856E-05,
+                "MassOfJupiter": 0.062989466,
+                "MassOfEarh": 20.033897
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.70146847,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 19.850424,
+                "RadiusOfJupiter": 1.8211398,
+                "SolarRadius": 0.18211398
+              },
+              "GravityForce": 19.850424,
+              "Mass": {
+                "SolarMass": 5.9610884E-05,
+                "MassOfJupiter": 0.062412597,
+                "MassOfEarh": 19.850424
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.48246673,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 20.00241,
+                "RadiusOfJupiter": 1.8350835,
+                "SolarRadius": 0.18350835
+              },
+              "GravityForce": 20.00241,
+              "Mass": {
+                "SolarMass": 6.00673E-05,
+                "MassOfJupiter": 0.06289046,
+                "MassOfEarh": 20.00241
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.19109201,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 3.0675886,
+                "RadiusOfJupiter": 0.28143016,
+                "SolarRadius": 0.028143015
+              },
+              "GravityForce": 3.0675886,
+              "Mass": {
+                "SolarMass": 9.211978E-06,
+                "MassOfJupiter": 0.009644941,
+                "MassOfEarh": 3.0675886
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.69302183,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 12.438132,
+                "RadiusOfJupiter": 1.141113,
+                "SolarRadius": 0.114111304
+              },
+              "GravityForce": 12.438132,
+              "Mass": {
+                "SolarMass": 3.735175E-05,
+                "MassOfJupiter": 0.03910728,
+                "MassOfEarh": 12.438132
+              },
+              "SystemId": 5
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.7503224,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 22.08427,
+                "RadiusOfJupiter": 2.02608,
+                "SolarRadius": 0.20260799
+              },
+              "GravityForce": 22.08427,
+              "Mass": {
+                "SolarMass": 6.631913E-05,
+                "MassOfJupiter": 0.06943613,
+                "MassOfEarh": 22.08427
+              },
+              "SystemId": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Systems": [
+        {
+          "Id": 6,
+          "GalaxyId": 6,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2291.85,
+              "Farenheit": 4157.33,
+              "Kelvin": 2565.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 8.213819,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 53.705593,
+              "RadiusOfJupiter": 4.927119,
+              "SolarRadius": 0.49271187
+            },
+            "GravityForce": 124329.11,
+            "Mass": {
+              "SolarMass": 0.3733607,
+              "MassOfJupiter": 390.90866,
+              "MassOfEarh": 124329.11
+            },
+            "SystemId": 6
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.6955064,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 28.38312,
+                "RadiusOfJupiter": 2.6039557,
+                "SolarRadius": 0.2603956
+              },
+              "GravityForce": 28.383118,
+              "Mass": {
+                "SolarMass": 8.523459E-05,
+                "MassOfJupiter": 0.08924062,
+                "MassOfEarh": 28.383118
+              },
+              "SystemId": 6
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.6816718,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 24.248322,
+                "RadiusOfJupiter": 2.2246168,
+                "SolarRadius": 0.22246167
+              },
+              "GravityForce": 24.248322,
+              "Mass": {
+                "SolarMass": 7.2817784E-05,
+                "MassOfJupiter": 0.07624022,
+                "MassOfEarh": 24.248322
+              },
+              "SystemId": 6
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "GalaxyId": 6,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2719.85,
+              "Farenheit": 4927.73,
+              "Kelvin": 2993.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 8.042428,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 31.626131,
+              "RadiusOfJupiter": 2.90148,
+              "SolarRadius": 0.290148
+            },
+            "GravityForce": 79374.14,
+            "Mass": {
+              "SolarMass": 0.23836078,
+              "MassOfJupiter": 249.56374,
+              "MassOfEarh": 79374.14
+            },
+            "SystemId": 12
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.83464897,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 5.4116406,
+                "RadiusOfJupiter": 0.4964808,
+                "SolarRadius": 0.04964808
+              },
+              "GravityForce": 5.4116406,
+              "Mass": {
+                "SolarMass": 1.6251173E-05,
+                "MassOfJupiter": 0.017014978,
+                "MassOfEarh": 5.4116406
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.000667295,
+                "KilometersPerSecond": 200.05,
+                "MilesPerHour": 0.034529243
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.6564174,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 9.384351,
+                "RadiusOfJupiter": 0.86094964,
+                "SolarRadius": 0.08609496
+              },
+              "GravityForce": 9.384351,
+              "Mass": {
+                "SolarMass": 2.8181234E-05,
+                "MassOfJupiter": 0.029505752,
+                "MassOfEarh": 9.384351
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.8931006,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 16.613365,
+                "RadiusOfJupiter": 1.524162,
+                "SolarRadius": 0.1524162
+              },
+              "GravityForce": 16.613365,
+              "Mass": {
+                "SolarMass": 4.9889986E-05,
+                "MassOfJupiter": 0.052234817,
+                "MassOfEarh": 16.613365
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.70289093,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 2.9834528,
+                "RadiusOfJupiter": 0.27371126,
+                "SolarRadius": 0.027371127
+              },
+              "GravityForce": 2.9834528,
+              "Mass": {
+                "SolarMass": 8.959318E-06,
+                "MassOfJupiter": 0.009380406,
+                "MassOfEarh": 2.9834528
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.27243492,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 20.009811,
+                "RadiusOfJupiter": 1.8357625,
+                "SolarRadius": 0.18357626
+              },
+              "GravityForce": 20.009811,
+              "Mass": {
+                "SolarMass": 6.0089526E-05,
+                "MassOfJupiter": 0.06291373,
+                "MassOfEarh": 20.009811
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.7177201,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 19.690653,
+                "RadiusOfJupiter": 1.806482,
+                "SolarRadius": 0.1806482
+              },
+              "GravityForce": 19.690653,
+              "Mass": {
+                "SolarMass": 5.913109E-05,
+                "MassOfJupiter": 0.06191025,
+                "MassOfEarh": 19.690653
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.4729048,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 5.463298,
+                "RadiusOfJupiter": 0.50122,
+                "SolarRadius": 0.050122
+              },
+              "GravityForce": 5.463298,
+              "Mass": {
+                "SolarMass": 1.64063E-05,
+                "MassOfJupiter": 0.017177397,
+                "MassOfEarh": 5.463298
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.5343083,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 29.447638,
+                "RadiusOfJupiter": 2.7016182,
+                "SolarRadius": 0.2701618
+              },
+              "GravityForce": 29.447638,
+              "Mass": {
+                "SolarMass": 8.843134E-05,
+                "MassOfJupiter": 0.09258761,
+                "MassOfEarh": 29.447638
+              },
+              "SystemId": 12
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 20958.0,
+                "LightYears": 0.0006645738,
+                "AU": 42.0
+              },
+              "Albedo": 0.21448389,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 4.1216307,
+                "RadiusOfJupiter": 0.37813127,
+                "SolarRadius": 0.037813127
+              },
+              "GravityForce": 4.1216307,
+              "Mass": {
+                "SolarMass": 1.237727E-05,
+                "MassOfJupiter": 0.012959002,
+                "MassOfEarh": 4.1216307
+              },
+              "SystemId": 12
+            }
+          ]
+        },
+        {
+          "Id": 18,
+          "GalaxyId": 6,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 3205.85,
+              "Farenheit": 5802.53,
+              "Kelvin": 3479.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 24.646221,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 12.632149,
+              "RadiusOfJupiter": 1.1589127,
+              "SolarRadius": 0.11589127
+            },
+            "GravityForce": 101061.51,
+            "Mass": {
+              "SolarMass": 0.30348802,
+              "MassOfJupiter": 317.75195,
+              "MassOfEarh": 101061.51
+            },
+            "SystemId": 18
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0012008641,
+                "KilometersPerSecond": 360.00998,
+                "MilesPerHour": 0.06213882
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.3972034,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 3.9981718,
+                "RadiusOfJupiter": 0.36680475,
+                "SolarRadius": 0.036680475
+              },
+              "GravityForce": 3.9981718,
+              "Mass": {
+                "SolarMass": 1.2006522E-05,
+                "MassOfJupiter": 0.012570829,
+                "MassOfEarh": 3.9981718
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.6811394,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 2.141648,
+                "RadiusOfJupiter": 0.19648148,
+                "SolarRadius": 0.019648148
+              },
+              "GravityForce": 2.141648,
+              "Mass": {
+                "SolarMass": 6.431376E-06,
+                "MassOfJupiter": 0.0067336503,
+                "MassOfEarh": 2.141648
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0010674719,
+                "KilometersPerSecond": 320.02002,
+                "MilesPerHour": 0.055236433
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.22652492,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 12.898801,
+                "RadiusOfJupiter": 1.1833762,
+                "SolarRadius": 0.118337624
+              },
+              "GravityForce": 12.898801,
+              "Mass": {
+                "SolarMass": 3.873514E-05,
+                "MassOfJupiter": 0.04055569,
+                "MassOfEarh": 12.898801
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 6462.0503,
+                "LightYears": 0.00020491028,
+                "AU": 12.950001
+              },
+              "Albedo": 0.10520913,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 4.286745,
+                "RadiusOfJupiter": 0.39327937,
+                "SolarRadius": 0.039327938
+              },
+              "GravityForce": 4.286745,
+              "Mass": {
+                "SolarMass": 1.2873108E-05,
+                "MassOfJupiter": 0.013478144,
+                "MassOfEarh": 4.286745
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.62176955,
+              "RotationTime": 19.204,
+              "Radius": {
+                "RadiusOfEarth": 22.763573,
+                "RadiusOfJupiter": 2.088401,
+                "SolarRadius": 0.20884012
+              },
+              "GravityForce": 22.763573,
+              "Mass": {
+                "SolarMass": 6.835908E-05,
+                "MassOfJupiter": 0.07157195,
+                "MassOfEarh": 22.763573
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.5367044,
+              "RotationTime": 9.607,
+              "Radius": {
+                "RadiusOfEarth": 18.799324,
+                "RadiusOfJupiter": 1.7247087,
+                "SolarRadius": 0.17247087
+              },
+              "GravityForce": 18.799324,
+              "Mass": {
+                "SolarMass": 5.6454428E-05,
+                "MassOfJupiter": 0.059107788,
+                "MassOfEarh": 18.799324
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 12674.601,
+                "LightYears": 0.00040190894,
+                "AU": 25.400002
+              },
+              "Albedo": 0.7173198,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 14.799915,
+                "RadiusOfJupiter": 1.3577904,
+                "SolarRadius": 0.13577904
+              },
+              "GravityForce": 14.799915,
+              "Mass": {
+                "SolarMass": 4.444419E-05,
+                "MassOfJupiter": 0.046533067,
+                "MassOfEarh": 14.799915
+              },
+              "SystemId": 18
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.104582414,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 10.172062,
+                "RadiusOfJupiter": 0.9332167,
+                "SolarRadius": 0.093321666
+              },
+              "GravityForce": 10.172062,
+              "Mass": {
+                "SolarMass": 3.0546733E-05,
+                "MassOfJupiter": 0.03198243,
+                "MassOfEarh": 10.172062
+              },
+              "SystemId": 18
+            }
+          ]
+        },
+        {
+          "Id": 24,
+          "GalaxyId": 6,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2765.85,
+              "Farenheit": 5010.53,
+              "Kelvin": 3039.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 62.837456,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 64.351746,
+              "RadiusOfJupiter": 5.90383,
+              "SolarRadius": 0.590383
+            },
+            "GravityForce": 146189.17,
+            "Mass": {
+              "SolarMass": 0.43900654,
+              "MassOfJupiter": 459.63983,
+              "MassOfEarh": 146189.17
+            },
+            "SystemId": 24
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00026711813,
+                "KilometersPerSecond": 80.08,
+                "MilesPerHour": 0.013822052
+              },
+              "DistanceToSun": {
+                "LightSeconds": 4391.2,
+                "LightYears": 0.00013924405,
+                "AU": 8.8
+              },
+              "Albedo": 0.51722145,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 22.046415,
+                "RadiusOfJupiter": 2.0226068,
+                "SolarRadius": 0.20226069
+              },
+              "GravityForce": 22.046415,
+              "Mass": {
+                "SolarMass": 6.620545E-05,
+                "MassOfJupiter": 0.06931711,
+                "MassOfEarh": 22.046415
+              },
+              "SystemId": 24
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00013372584,
+                "KilometersPerSecond": 40.09,
+                "MilesPerHour": 0.0069196564
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.22958085,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 18.25645,
+                "RadiusOfJupiter": 1.6749038,
+                "SolarRadius": 0.16749038
+              },
+              "GravityForce": 18.25645,
+              "Mass": {
+                "SolarMass": 5.4824177E-05,
+                "MassOfJupiter": 0.057400912,
+                "MassOfEarh": 18.25645
+              },
+              "SystemId": 24
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 8532.9,
+                "LightYears": 0.0002705765,
+                "AU": 17.1
+              },
+              "Albedo": 0.10167588,
+              "RotationTime": 12.806001,
+              "Radius": {
+                "RadiusOfEarth": 10.985334,
+                "RadiusOfJupiter": 1.0078288,
+                "SolarRadius": 0.100782886
+              },
+              "GravityForce": 10.985334,
+              "Mass": {
+                "SolarMass": 3.298899E-05,
+                "MassOfJupiter": 0.034539476,
+                "MassOfEarh": 10.985334
+              },
+              "SystemId": 24
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0004005104,
+                "KilometersPerSecond": 120.07,
+                "MilesPerHour": 0.020724447
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.60061437,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 18.399233,
+                "RadiusOfJupiter": 1.688003,
+                "SolarRadius": 0.1688003
+              },
+              "GravityForce": 18.399233,
+              "Mass": {
+                "SolarMass": 5.5252953E-05,
+                "MassOfJupiter": 0.057849843,
+                "MassOfEarh": 18.399233
+              },
+              "SystemId": 24
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0009340796,
+                "KilometersPerSecond": 280.03,
+                "MilesPerHour": 0.048334036
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.16970372,
+              "RotationTime": 22.403,
+              "Radius": {
+                "RadiusOfEarth": 22.862013,
+                "RadiusOfJupiter": 2.0974324,
+                "SolarRadius": 0.20974323
+              },
+              "GravityForce": 22.862013,
+              "Mass": {
+                "SolarMass": 6.865469E-05,
+                "MassOfJupiter": 0.071881466,
+                "MassOfEarh": 22.862013
+              },
+              "SystemId": 24
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 14745.449,
+                "LightYears": 0.00046757513,
+                "AU": 29.55
+              },
+              "Albedo": 0.22352897,
+              "RotationTime": 3.209,
+              "Radius": {
+                "RadiusOfEarth": 13.734555,
+                "RadiusOfJupiter": 1.260051,
+                "SolarRadius": 0.1260051
+              },
+              "GravityForce": 13.734555,
+              "Mass": {
+                "SolarMass": 4.124491E-05,
+                "MassOfJupiter": 0.043183424,
+                "MassOfEarh": 13.734555
+              },
+              "SystemId": 24
+            }
+          ]
+        },
+        {
+          "Id": 30,
+          "GalaxyId": 6,
+          "Star": {
+            "Class": "O",
+            "EffectiveTemperature": {
+              "Celsius": 2587.85,
+              "Farenheit": 4690.13,
+              "Kelvin": 2861.0
+            },
+            "Chromacity": {
+              "R": 199,
+              "G": 82,
+              "B": 57,
+              "A": 255,
+              "Hex": "#C75239FF"
+            },
+            "Luminosity": 76.97825,
+            "HydrogenLines": "VeryWeak",
+            "Rarity": 76.0,
+            "Albedo": 1.0,
+            "RotationTime": 1.0,
+            "Radius": {
+              "RadiusOfEarth": 18.00104,
+              "RadiusOfJupiter": 1.6514716,
+              "SolarRadius": 0.16514716
+            },
+            "GravityForce": 125721.61,
+            "Mass": {
+              "SolarMass": 0.37754238,
+              "MassOfJupiter": 395.28687,
+              "MassOfEarh": 125721.61
+            },
+            "SystemId": 30
+          },
+          "Planets": [
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.0005339028,
+                "KilometersPerSecond": 160.06001,
+                "MilesPerHour": 0.027626844
+              },
+              "DistanceToSun": {
+                "LightSeconds": 2320.35,
+                "LightYears": 7.3577816E-05,
+                "AU": 4.65
+              },
+              "Albedo": 0.15488915,
+              "RotationTime": 6.4080005,
+              "Radius": {
+                "RadiusOfEarth": 30.045736,
+                "RadiusOfJupiter": 2.7564895,
+                "SolarRadius": 0.27564895
+              },
+              "GravityForce": 30.045736,
+              "Mass": {
+                "SolarMass": 9.022744E-05,
+                "MassOfJupiter": 0.09446813,
+                "MassOfEarh": 30.045736
+              },
+              "SystemId": 30
+            },
+            {
+              "OrbitalVelocity": {
+                "SpeedOfLight": 0.00080068735,
+                "KilometersPerSecond": 240.04001,
+                "MilesPerHour": 0.04143164
+              },
+              "DistanceToSun": {
+                "LightSeconds": 10603.75,
+                "LightYears": 0.0003362427,
+                "AU": 21.25
+              },
+              "Albedo": 0.19189502,
+              "RotationTime": 16.005,
+              "Radius": {
+                "RadiusOfEarth": 19.724438,
+                "RadiusOfJupiter": 1.8095814,
+                "SolarRadius": 0.18095814
+              },
+              "GravityForce": 19.724438,
+              "Mass": {
+                "SolarMass": 5.9232545E-05,
+                "MassOfJupiter": 0.062016476,
+                "MassOfEarh": 19.724438
+              },
+              "SystemId": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
